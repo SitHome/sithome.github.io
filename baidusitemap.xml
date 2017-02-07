@@ -4,38 +4,8 @@
 
     
   <url>
-    <loc>http://www.sithome.vip/2016/07/19/markdown-start-fast/</loc>
-    <lastmod>2017-02-07T03:18:46.000Z</lastmod>
-    <data>
-        <display>
-        <title>Markdown快速入门</title>
-        <pubTime>2016-07-19T05:21:25.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.sithome.vip/2017/01/26/first-angular2-app/</loc>
-    <lastmod>2017-02-07T03:18:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>第一个Angular 2 Application</title>
-        <pubTime>2017-01-26T01:21:25.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.sithome.vip/2017/01/27/angular2-component-1/</loc>
-    <lastmod>2017-02-07T03:18:11.000Z</lastmod>
+    <lastmod>2017-02-07T03:53:21.000Z</lastmod>
     <data>
         <display>
         <title>Angular 2 中的组件（一）</title>
@@ -50,11 +20,41 @@
     
   <url>
     <loc>http://www.sithome.vip/2017/02/04/angular2-component-2/</loc>
-    <lastmod>2017-02-07T03:17:36.000Z</lastmod>
+    <lastmod>2017-02-07T03:53:05.000Z</lastmod>
     <data>
         <display>
         <title>Angular 2 中的组件（二）</title>
         <pubTime>2017-02-04T07:01:56.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.sithome.vip/2017/01/26/first-angular2-app/</loc>
+    <lastmod>2017-02-07T03:52:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>第一个Angular 2 Application</title>
+        <pubTime>2017-01-26T01:21:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.sithome.vip/2016/07/19/markdown-start-fast/</loc>
+    <lastmod>2017-02-07T03:18:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>Markdown快速入门</title>
+        <pubTime>2016-07-19T05:21:25.000Z</pubTime>
         
          
            
