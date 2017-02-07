@@ -941,21 +941,19 @@ body {
   color: #d480aa;
 }
 #footer-post #toc-footer .toc-level-1 {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: #b3b3b3;
   color: #666;
   line-height: 15px;
 }
 #footer-post #toc-footer .toc-level-2 {
-  font-size: 0.8rem;
-  color: #c9cacc;
-}
-#footer-post #toc-footer .toc-level-2:before {
-  content: "  ";
-  color: #2bbc8a;
+  font-size: 0.7rem;
+  color: #b3b3b3;
+  color: #666;
+  line-height: 15px;
 }
 #footer-post #toc-footer .toc-level-3 {
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   color: #b3b3b3;
   color: #666;
   line-height: 15px;
