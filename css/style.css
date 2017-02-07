@@ -338,14 +338,14 @@
   letter-spacing: normal;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
-  color: #eee;
+  color: #2bbc8a;
   display: block;
 }
 .content h3 {
   font-size: 0.9rem;
   font-weight: bold;
   text-decoration: underline;
-  color: #eee;
+  color: #2bbc8a;
 }
 .content h4,
 .content h5,
@@ -768,19 +768,15 @@ body {
   color: #d480aa;
 }
 #header-post #toc .toc-level-1 {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   color: #b3b3b3;
 }
 #header-post #toc .toc-level-2 {
-  font-size: 0.8rem;
-  color: #c9cacc;
-}
-#header-post #toc .toc-level-2:before {
-  content: "&nbsp;&nbsp";
-  color: #2bbc8a;
+  font-size: 0.7rem;
+  color: #b3b3b3;
 }
 #header-post #toc .toc-level-3 {
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   color: #b3b3b3;
 }
 #header-post #toc .toc-level-4 {

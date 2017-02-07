@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.sithome.vip/2017/02/04/angular2-component-2/</loc>
+    
+    <lastmod>2017-02-07T02:55:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.sithome.vip/2017/01/26/first-angular2-app/</loc>
+    
+    <lastmod>2017-02-07T02:54:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.sithome.vip/2017/01/27/angular2-component-1/</loc>
     
     <lastmod>2017-02-07T02:01:32.000Z</lastmod>
@@ -9,16 +23,9 @@
   </url>
   
   <url>
-    <loc>http://www.sithome.vip/2016/07/19/Markdown%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</loc>
+    <loc>http://www.sithome.vip/2016/07/19/markdown-start-fast/</loc>
     
     <lastmod>2017-02-07T01:05:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sithome.vip/2017/02/04/Angular%202%20%E4%B8%AD%E7%9A%84%E7%BB%84%E4%BB%B6%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
-    
-    <lastmod>2017-02-06T11:21:59.000Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://www.sithome.vip/2016/06/26/hello-world/</loc>
     
     <lastmod>2017-02-06T11:21:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.sithome.vip/2017/01/26/%E7%AC%AC%E4%B8%80%E4%B8%AAAngular%202%20Application/</loc>
-    
-    <lastmod>2017-02-06T03:07:47.000Z</lastmod>
     
   </url>
   
