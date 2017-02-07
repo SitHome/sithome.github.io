@@ -768,7 +768,8 @@ body {
   color: #d480aa;
 }
 #header-post #toc .toc-level-1 {
-  display: none;
+  font-size: 0.7rem;
+  color: #b3b3b3;
 }
 #header-post #toc .toc-level-2 {
   font-size: 0.8rem;
